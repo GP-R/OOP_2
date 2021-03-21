@@ -16,6 +16,7 @@ void main()
 	rank.storeRanking(player, MAX_RANK, "ranking.txt");
 	printf("test");
 	printf("test");
+	printf("test");
 	return;
 	//github push test
 }
